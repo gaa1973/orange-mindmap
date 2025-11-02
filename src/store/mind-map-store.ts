@@ -25,7 +25,7 @@ const initialNodes: Node[] = [
 const initialEdges: Edge[] = [];
 
 // サンプル
-const countAtom = atom<number>(0);
+// const countAtom = atom<number>(0);
 /*
   コンポーネントで、useState と同じように使える！
   const [count, setCount] = useAtom(countAtom);
